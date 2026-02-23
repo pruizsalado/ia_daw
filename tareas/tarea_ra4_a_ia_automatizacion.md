@@ -48,9 +48,46 @@
 
 ## 3) DESPUÉS (con IA)
 - ¿Qué automatiza la IA?
+
+  -Predicción de demanda por producto.
+
+  -Detección automática de stock crítico.
+
+  -Generación automática de pedidos sugeridos.
+
+  -Ajuste dinámico según estacionalidad y tendencias.
+
+  -Alertas inteligentes en tiempo real.
+  
 - ¿Qué queda para humanos?
+
+  -Validación final de pedidos grandes.
+
+  -Negociación con proveedores.
+
+  -Gestión de incidencias excepcionales.
+  
 - Datos necesarios (tipos de datos, sin datos personales):
+
+  -Historial de ventas.
+
+  -Niveles de stock.
+
+  -Tiempos de entrega del proveedor.
+
+  -Estacionalidad (mes, promociones, campañas).
+
+  -Tendencias de demanda.
+  
 - Modelo/técnica (NLP, clasificación, recomendación, visión, etc.):
+
+  -Series temporales (forecasting).
+
+  -Machine Learning supervisado.
+
+  -Modelos predictivos de demanda.
+
+  -Algoritmos de optimización.
 
 ## 4) Optimización (mejora medible)
 Define 3 métricas con valores antes/después:
