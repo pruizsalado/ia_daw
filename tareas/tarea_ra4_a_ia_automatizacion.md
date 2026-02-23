@@ -17,20 +17,34 @@
 
 ## 2) ANTES (sin IA)
 - Pasos (5–7):
+  
   1.Revisar manualmente el stock.
+  
   2.Comparar histórico en Excel.
+  
   3.Estimar demanda según experiencia.
+  
   4.Detectar productos con bajo stock.
+  
   5.Contactar proveedor para reposición.
+  
   6.Actualizar manualmente pedidos y fechas.
+  
   7.Corregir errores si hay roturas de stock.
+  
 - Tiempo aproximado por caso: 3–5 horas semanales de revisión + urgencias por roturas.
+  
 - Problemas / cuellos de botella:
-      -Errores humanos en estimación.
-      -Roturas de stock frecuentes.
-      -Exceso de inventario inmovilizado.
-      -Decisiones basadas en intuición.
-      -Pérdida de ventas por falta de productos.
+  
+   -Errores humanos en estimación.
+  
+   -Roturas de stock frecuentes.
+  
+   -Exceso de inventario inmovilizado.
+
+   -Decisiones basadas en intuición.
+  
+   -Pérdida de ventas por falta de productos.
 
 ## 3) DESPUÉS (con IA)
 - ¿Qué automatiza la IA?
