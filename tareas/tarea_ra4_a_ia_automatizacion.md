@@ -92,11 +92,58 @@
 ## 4) Optimización (mejora medible)
 Define 3 métricas con valores antes/después:
 - Tiempo:
+
+  Antes: 3-5 horas semanales.
+
+  Después: 30-60 minutos semanales para supervisión.
+  
 - Coste:
+
+  Antes: Entre un 15-20% de sobrestock anual.
+
+  Después: Entre 5-8% de sobrestock.
+  
 - Calidad:
 
+  Antes: 85% de disponibilidad de producto.
+
+  Después: Entre un 95-99% de disponibilidad.
+  
 ## 5) Diagrama del flujo (ASCII o Mermaid)
 (Pega aquí el diagrama)
+
+        +------------------+
+        |  Datos de ventas |
+        +------------------+
+                 |
+                 v
+        +------------------+
+        |  Modelo IA       |
+        |  Predicción      |
+        +------------------+
+                 |
+                 v
+        +------------------+
+        | Detección stock  |
+        | crítico          |
+        +------------------+
+                 |
+                 v
+        +------------------+
+        | Sugerencia de    |
+        | pedido automático|
+        +------------------+
+                 |
+                 v
+        +------------------+
+        | Validación       |
+        | humana           |
+        +------------------+
+                 |
+                 v
+        +------------------+
+        | Pedido proveedor |
+        +------------------+
 
 ## 6) Riesgos y mitigación
 - Riesgo 1:
