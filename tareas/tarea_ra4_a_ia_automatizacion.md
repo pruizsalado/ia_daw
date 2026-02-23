@@ -110,7 +110,6 @@ Define 3 métricas con valores antes/después:
   Después: Entre un 95-99% de disponibilidad.
   
 ## 5) Diagrama del flujo (ASCII o Mermaid)
-(Pega aquí el diagrama)
 
         +------------------+
         |  Datos de ventas |
@@ -146,10 +145,15 @@ Define 3 métricas con valores antes/después:
         +------------------+
 
 ## 6) Riesgos y mitigación
-- Riesgo 1:
-- Mitigación 1:
-- Riesgo 2:
-- Mitigación 2:
+
+- Riesgo 1: Predicciones incorrectas por datos insuficientes.
+  
+- Mitigación 1: Reentrenamiento periódico y validación humana inicial.
+  
+- Riesgo 2: Dependencia excesiva del sistema automatizado.
+  
+- Mitigación 2: Supervisión humana y auditorías mensuales de rendimiento.
 
 ## 7) Fuente oficial
-- Enlace: 
+
+- [Enlace: (https://docs.aws.amazon.com/forecast/)]
