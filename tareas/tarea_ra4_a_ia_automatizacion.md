@@ -6,9 +6,13 @@
 - Nombre del proceso: Gestión automatica del inventario.
 - Contexto (empresa/servicio web/IT): E-commerce, una empresa tiene una web de venta conectada a un inventario físico.
 - Rol/es implicados:
+  
     -Responsable de almacén
+
     -Responsable de compras
+
     -Equipo IT
+
     -Proveedor
 
 ## 2) ANTES (sin IA)
