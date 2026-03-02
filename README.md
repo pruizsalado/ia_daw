@@ -74,11 +74,11 @@ KPI 3: Ingreso medio por usuario
 ```
 
 ## 7) Riesgos y mitigación
-Riesgo 1:
-- Mitigación 1:
+Riesgo 1: Sesgo en recomendaciones (mostrar siempre el mismo tipo de contenido).
+- Mitigación 1: Auditorías periódicas del modelo y diversidad forzada en recomendaciones.
 
-Riesgo 2:
-- Mitigación 2:
+Riesgo 2: Problemas de privacidad y protección de datos.
+- Mitigación 2: Cumplimiento del Reglamento General de Protección de Datos (RGPD), anonimización de datos y consentimiento explícito.
 
 ## 8) Valoración (criterio c): importancia presente y futura de la IA (10–15 líneas)
 - Importancia actual (hoy):
