@@ -21,11 +21,17 @@ Describe por qué es Big Data (volumen, velocidad, variedad).
 
 ## 3) Tratamiento/análisis: pipeline de datos
 Explica el flujo de forma ordenada:
-- Ingesta (captura/eventos):
-- Limpieza/normalización:
+- Ingesta (captura/eventos): Recogida automática de eventos de usuario mediante APIs y sistemas de tracking en la app/web.
+- Limpieza/normalización: Eliminación de duplicados, tratamiento de valores nulos, unificación de formatos de fecha/hora.
 - Almacenamiento (data lake/warehouse):
+- Data Lake para datos en bruto (logs).
+- Data Warehouse para análisis estructurado.
 - Preparación de variables (features):
-- Análisis/BI (opcional):
+- Tiempo medio de visualización.
+- Número de contenidos vistos por semana.
+- Géneros preferidos.
+- Frecuencia de uso.
+- Análisis/BI (opcional): Dashboards con herramientas tipo Power BI o Tableau para analizar patrones de consumo.
 
 ## 4) IA aplicada: modelo y decisión
 - Tipo de IA/técnica (clasificación, predicción, recomendación, anomalías, NLP...):
