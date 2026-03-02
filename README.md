@@ -62,7 +62,7 @@ KPI 3: Ingreso medio por usuario
 - Por qué mejora la rentabilidad: Recomendaciones más precisas aumentan consumo y contratación de planes superiores.
 
 ## 6) Diagrama del pipeline (ASCII o Mermaid)
-```
+
 Usuarios
    │
    ▼
@@ -82,7 +82,6 @@ Modelo IA (Recomendación + Churn)
    │
    ▼
 Decisiones de negocio (Recomendaciones / Ofertas)
-```
 
 ## 7) Riesgos y mitigación
 Riesgo 1:
