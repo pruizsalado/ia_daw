@@ -11,8 +11,8 @@ Describe por qué es Big Data (volumen, velocidad, variedad).
 - Fuente 2: Interacciones (búsquedas, clics, tiempo de reproducción, abandono).
 - Fuente 3: Datos de perfil (edad, país, tipo de suscripción, dispositivo).
 - Volumen/velocidad (estimación):
-- 500 millones de eventos diarios.
-- Procesamiento en tiempo real o casi real (<1 segundo).
+  500 millones de eventos diarios.
+  Procesamiento en tiempo real o casi real (<1 segundo).
 - Formatos (texto, eventos, series temporales, imágenes, etc.):
 - Eventos (logs JSON)
 - Series temporales (tiempo de reproducción)
