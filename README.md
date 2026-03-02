@@ -63,25 +63,15 @@ KPI 3: Ingreso medio por usuario
 
 ## 6) Diagrama del pipeline (ASCII o Mermaid)
 
-Usuarios
-   │
-   ▼
-Captura de eventos (App/Web)
-   │
-   ▼
-Data Lake (datos en bruto)
-   │
-   ▼
-Limpieza y transformación (ETL)
-   │
-   ▼
-Data Warehouse
-   │
-   ▼
-Modelo IA (Recomendación + Churn)
-   │
-   ▼
-Decisiones de negocio (Recomendaciones / Ofertas)
+```
+    A[Usuarios] --> B[Captura de eventos<br>App / Web]
+    B --> C[Data Lake<br>Datos en bruto]
+    C --> D[Limpieza y Transformación (ETL)]
+    D --> E[Data Warehouse]
+    E --> F[Modelo IA<br>Recomendación + Churn]
+    F --> G[Recomendaciones personalizadas]
+    F --> H[Acciones anti-churn]
+```
 
 ## 7) Riesgos y mitigación
 Riesgo 1:
