@@ -81,11 +81,14 @@ Riesgo 2: Problemas de privacidad y protección de datos.
 - Mitigación 2: Cumplimiento del Reglamento General de Protección de Datos (RGPD), anonimización de datos y consentimiento explícito.
 
 ## 8) Valoración (criterio c): importancia presente y futura de la IA (10–15 líneas)
-- Importancia actual (hoy):
-- Importancia futura (3–5 años):
-- Condiciones/limitaciones (datos, costes, regulación, ética, seguridad, empleo):
-- Conclusión razonada:
+- Importancia actual (hoy): La IA es fundamental en plataformas digitales para personalizar la experiencia del usuario y optimizar ingresos. Sin algoritmos de recomendación, la cantidad de contenido disponible sería difícil de gestionar y reduciría la satisfacción del cliente.
+- Importancia futura (3–5 años): La IA será aún más relevante gracias a modelos más avanzados (IA generativa, modelos multimodales). Permitirá recomendaciones más precisas, creación automática de contenido y análisis predictivo más complejo.
+- Condiciones/limitaciones (datos, costes, regulación, ética, seguridad, empleo): Necesidad de grandes volúmenes de datos de calidad, altos costes de infraestructura, regulación en privacidad, riesgos éticos y posible impacto en el empleo en tareas repetitivas.
+- Conclusión razonada: La IA no solo mejora la eficiencia operativa, sino que se convierte en un elemento estratégico clave para la competitividad. Las empresas que no integren IA en su modelo de negocio perderán ventaja frente a competidores más avanzados tecnológicamente.
 
 ## 9) Fuentes oficiales (mín. 2)
-- Big Data/analítica (enlace oficial):
-- IA/técnica/modelo (enlace oficial):
+- Big Data/analítica (enlace oficial): Comisión Europea — Estrategia Europea de Datos:
+https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_es
+- IA/técnica/modelo (enlace oficial): IA/técnica/modelo (enlace oficial):
+Google AI — Documentación sobre sistemas de recomendación y machine learning:
+https://ai.google/education/
