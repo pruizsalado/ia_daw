@@ -1,10 +1,10 @@
 # Práctica IA (RA4 · b+c) — Big Data, análisis, rentabilidad y valoración IA
 
 ## 1) Caso y objetivo de negocio
-- Empresa/sector (real o ficticia):
-- Problema a resolver:
-- Objetivo de negocio (rentabilidad): (reducir costes / aumentar ventas / reducir riesgos / etc.)
-
+- Empresa/sector (real o ficticia): Plataforma de streaming tipo Netflix.
+- Problema a resolver: Alta tasa de cancelación de suscripciones (churn) y dificultad para personalizar recomendaciones de forma precisa.
+- Objetivo de negocio (rentabilidad): Reducir cancelaciones y aumentar el tiempo de visualización para incrementar ingresos recurrentes.
+  
 ## 2) Big Data: recogida masiva de datos
 Describe por qué es Big Data (volumen, velocidad, variedad).
 - Fuente 1:
