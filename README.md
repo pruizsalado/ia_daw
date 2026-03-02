@@ -35,9 +35,15 @@ Explica el flujo de forma ordenada:
 
 ## 4) IA aplicada: modelo y decisión
 - Tipo de IA/técnica (clasificación, predicción, recomendación, anomalías, NLP...):
-- Entrada del modelo (qué datos usa):
+- Sistema de recomendación (filtrado colaborativo + modelos de clasificación).
+- Modelo predictivo de churn (clasificación binaria).
+- Entrada del modelo (qué datos usa): Historial de consumo, frecuencia de uso, interacción con recomendaciones, datos demográficos.
 - Salida del modelo (qué produce):
+- Lista personalizada de contenidos recomendados.
+- Probabilidad de que el usuario cancele su suscripción.
 - Decisión que habilita (qué hace la empresa con esa salida):
+- Mostrar recomendaciones personalizadas.
+- Enviar ofertas o promociones a usuarios con alta probabilidad de cancelación.
 
 ## 5) Rentabilidad: KPIs antes/después (mínimo 3)
 KPI 1 (ingresos/coste/eficiencia):
