@@ -46,20 +46,20 @@ Explica el flujo de forma ordenada:
 - Enviar ofertas o promociones a usuarios con alta probabilidad de cancelación.
 
 ## 5) Rentabilidad: KPIs antes/después (mínimo 3)
-KPI 1 (ingresos/coste/eficiencia):
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+KPI 1 (ingresos/coste/eficiencia): Tasa de cancelación
+- Antes: 8% mensual
+- Después: 5% mensual
+- Por qué mejora la rentabilidad: Menos cancelaciones = más ingresos recurrentes y menor coste de adquisición de nuevos clientes.
 
-KPI 2:
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+KPI 2: Tiempo medio de visualización
+- Antes: 6 h/semana
+- Después: 8 h/semana
+- Por qué mejora la rentabilidad: Mayor engagement -> más fidelización y menor probabilidad de baja.
 
-KPI 3:
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+KPI 3: Ingreso medio por usuario
+- Antes: 11 euros/mes
+- Después: 12,5 euros/mes
+- Por qué mejora la rentabilidad: Recomendaciones más precisas aumentan consumo y contratación de planes superiores.
 
 ## 6) Diagrama del pipeline (ASCII o Mermaid)
 (Pega aquí el diagrama)
