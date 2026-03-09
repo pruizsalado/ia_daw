@@ -1,8 +1,8 @@
 # Práctica IA (RA4 · d+e) — Sectores con implantación relevante y lenguajes de programación en IA
 
 ## 1) Introducción
-- Objetivo de la práctica:
-- Relación con DAW/DAM:
+- Objetivo de la práctica: Analizar algunos sectores donde la Inteligencia Artificial tiene una implantación relevante y estudiar los lenguajes de programación más utilizados para desarrollar sistemas de IA.
+- Relación con DAW/DAM: Los desarrolladores de aplicaciones web y multiplataforma cada vez integran más servicios basados en IA. Conocer los sectores donde se aplica la IA y los lenguajes más utilizados permite a los desarrolladores integrar estas tecnologías en aplicaciones modernas.
 
 ## 2) Sectores con implantación relevante de IA
 
