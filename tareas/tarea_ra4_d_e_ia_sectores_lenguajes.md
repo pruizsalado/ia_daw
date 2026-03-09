@@ -128,10 +128,12 @@
 - Mitigación 2: Utilizar conjuntos de datos variados y revisar regularmente los modelos.
 
 ## 7) Conclusión
-- Qué sectores destacan más:
-- Qué lenguajes aparecen con más frecuencia:
-- Qué importancia tiene esto para DAW/DAM:
+- Qué sectores destacan más: Los sectores de salud, comercio electrónico y transporte destacan por el gran volumen de datos que generan y por el impacto positivo que la IA puede tener en sus servicios.
+- Qué lenguajes aparecen con más frecuencia: Python es el lenguaje más utilizado debido a su simplicidad y su gran ecosistema de librerías para inteligencia artificial.
+- Qué importancia tiene esto para DAW/DAM: Los desarrolladores de aplicaciones deben conocer cómo integrar APIs y herramientas de IA para crear aplicaciones más inteligentes y adaptadas a las necesidades de los usuarios.
 
 ## 8) Fuentes oficiales (mín. 2)
-- Fuente 1 (sectores / aplicación IA):
-- Fuente 2 (lenguajes / ecosistema técnico):
+- Fuente 1 (sectores / aplicación IA): Comisión Europea – Inteligencia Artificial
+https://digital-strategy.ec.europa.eu/en/policies/artificial-intelligence
+- Fuente 2 (lenguajes / ecosistema técnico): Documentación oficial de Python – Machine Learning
+https://www.python.org/
