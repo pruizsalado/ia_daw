@@ -54,10 +54,16 @@
 - Desarrollo de chatbots.
 
 ### Lenguaje 2
-- Nombre:
-- Uso principal en IA:
+- Nombre: R.
+- Uso principal en IA: Análisis estadístico y ciencia de datos.
 - Ventajas:
+- Excelente para el análisis de datos.
+- Gran número de paquetes estadísticos.
+- Muy usado en investigación.
 - Ejemplos de uso:
+- Análisis predictivo.
+- Modelos estadísticos.
+- Visualización de datos.
 
 ### Lenguaje 3
 - Nombre:
