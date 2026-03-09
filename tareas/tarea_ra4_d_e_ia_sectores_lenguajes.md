@@ -66,10 +66,16 @@
 - Visualización de datos.
 
 ### Lenguaje 3
-- Nombre:
-- Uso principal en IA:
+- Nombre: Java.
+- Uso principal en IA: Aplicaciones empresariales con sistemas inteligentes.
 - Ventajas:
+- Alto rendimiento.
+- Portabilidad entre plataformas.
+- Amplio uso en grandes empresas.
 - Ejemplos de uso:
+- Sistemas de recomendación.
+- Aplicaciones de Big Data.
+- Integración de IA en sistemas empresariales.
 
 ### Lenguaje 4
 - Nombre:
