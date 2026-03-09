@@ -42,10 +42,16 @@
 ## 3) Lenguajes de programación en IA
 
 ### Lenguaje 1
-- Nombre:
-- Uso principal en IA:
+- Nombre: Python.
+- Uso principal en IA: Desarrollo de modelos de machine learning.
 - Ventajas:
+- Sintaxis sencilla.
+- Gran cantidad de librerías de IA.
+- Amplica comunidad.
 - Ejemplos de uso:
+- TensorFlow.
+- PyTorch.
+- Desarrollo de chatbots.
 
 ### Lenguaje 2
 - Nombre:
