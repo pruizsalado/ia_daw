@@ -122,10 +122,10 @@
 ```
 
 ## 6) Riesgos y mitigación
-- Riesgo 1:
-- Mitigación 1:
-- Riesgo 2:
-- Mitigación 2:
+- Riesgo 1: Uso incorrecto de datos personales o sensibles.
+- Mitigación 1: Aplicar normativas de protección de datos y anonimización de información.
+- Riesgo 2: Sesgos en los algoritmos de IA que puedan producir decisiones injustas.
+- Mitigación 2: Utilizar conjuntos de datos variados y revisar regularmente los modelos.
 
 ## 7) Conclusión
 - Qué sectores destacan más:
