@@ -92,7 +92,7 @@
 ## 4) Relación entre sectores, tipo de IA y lenguaje
 | Sector | Aplicación de IA | Tipo de IA/técnica | Lenguaje recomendado | Justificación |
 |--------|------------------|--------------------|----------------------|---------------|
-|        |                  |                    |                      |               |
+| Salud  | Diagnóstico por imagenes | Deep learning | Python | Dispone de librerías especializadas |
 |        |                  |                    |                      |               |
 |        |                  |                    |                      |               |
 
