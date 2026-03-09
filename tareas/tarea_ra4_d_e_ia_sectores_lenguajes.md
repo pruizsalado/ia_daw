@@ -7,12 +7,15 @@
 ## 2) Sectores con implantación relevante de IA
 
 ### Sector 1
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
+- Nombre del sector: Salud
+- Tipo de empresa/servicio: Hospitales, clínicas y laboratorios.
+- Aplicación de IA: Diagnóstico asistido mediante análisis de imágenes médicas.
+- Qué tarea mejora o automatiza: La IA analiza pruebas médicas para detectar enfermedades y dar diagnósticos.
+- Por qué la IA tiene implantación relevante en este sector: La gran cantidad de datos médicos y la necesidad de diagnósticos rápidos hacen que la IA sea muy útil para ayudar al personal sanitario.
 - Beneficios que aporta:
+- Diagnósticos rápidos.
+- Mayor precisión.
+- Apoyo a los médicos en la toma de decisiones.
 
 ### Sector 2
 - Nombre del sector:
