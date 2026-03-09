@@ -78,10 +78,16 @@
 - Integración de IA en sistemas empresariales.
 
 ### Lenguaje 4
-- Nombre:
-- Uso principal en IA:
+- Nombre: C++.
+- Uso principal en IA: Desarrollo de sistemas de alto rendimiento.
 - Ventajas:
+- Gran velocidad de ejecución.
+- Control de memoria.
+- Ideal para aplicaciones en tiempo real.
 - Ejemplos de uso:
+- Motores de IA en videojuegos.
+- Sistemas de visión artificial.
+- Robots y sistemas autónomos.
 
 ## 4) Relación entre sectores, tipo de IA y lenguaje
 | Sector | Aplicación de IA | Tipo de IA/técnica | Lenguaje recomendado | Justificación |
