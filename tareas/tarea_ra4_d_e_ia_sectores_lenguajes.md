@@ -18,12 +18,15 @@
 - Apoyo a los médicos en la toma de decisiones.
 
 ### Sector 2
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
+- Nombre del sector: Comercio electrónico.
+- Tipo de empresa/servicio: Tiendas online.
+- Aplicación de IA: Sistema de recomendación de productos.
+- Qué tarea mejora o automatiza: Analiza el comportamiento del usuario para recomendar productos.
+- Por qué la IA tiene implantación relevante en este sector: Las plataformas manejan grandes cantidades de datos sobre clientes y compras, lo que permite entrenar algoritmos de recomendación.
 - Beneficios que aporta:
+- Aumento de ventas.
+- Mejora de la experiencia del usuario.
+- Personalización del contenido.
 
 ### Sector 3
 - Nombre del sector:
