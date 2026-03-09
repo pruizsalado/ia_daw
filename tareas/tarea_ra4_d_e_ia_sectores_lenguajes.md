@@ -93,8 +93,8 @@
 | Sector | Aplicación de IA | Tipo de IA/técnica | Lenguaje recomendado | Justificación |
 |--------|------------------|--------------------|----------------------|---------------|
 | Salud  | Diagnóstico por imagenes | Deep learning | Python | Dispone de librerías especializadas |
-|        |                  |                    |                      |               |
-|        |                  |                    |                      |               |
+| Comercio electrónico | Recomendación de productos | Machine Learning | Python | Muy usado para análisis de datos y sistemas de recomendación |
+| Transporte | Conducción autónoma | Visión artificial y aprendizaje profundo | C++ | Permite procesamiento rápido en tiempo real |
 
 ## 5) Diagrama (ASCII o Mermaid)
 (Pega aquí el diagrama)
