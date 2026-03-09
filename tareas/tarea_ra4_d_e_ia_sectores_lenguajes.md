@@ -29,12 +29,15 @@
 - Personalización del contenido.
 
 ### Sector 3
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
+- Nombre del sector: Transporte.
+- Tipo de empresa/servicio: Empresas de transporte.
+- Aplicación de IA: Sistemas de conducción autónoma y optimización de rutas.
+- Qué tarea mejora o automatiza: Permite que los vehículos analicen el entorno y tomen decisiones de conducción o modifiquen las rutas a otras más eficientes.
+- Por qué la IA tiene implantación relevante en este sector: El transporte genera grandes volúmenes de datos en tiempo real.
 - Beneficios que aporta:
+- Reducción de accidentes.
+- Menor consumo de combustible.
+- Mejora de la eficiencia del transporte.
 
 ## 3) Lenguajes de programación en IA
 
