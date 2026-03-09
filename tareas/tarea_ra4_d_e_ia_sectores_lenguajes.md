@@ -97,7 +97,29 @@
 | Transporte | Conducción autónoma | Visión artificial y aprendizaje profundo | C++ | Permite procesamiento rápido en tiempo real |
 
 ## 5) Diagrama (ASCII o Mermaid)
-(Pega aquí el diagrama)
+
+```
+                +----------------------+
+                |  Inteligencia        |
+                |      Artificial      |
+                +----------+-----------+
+                           |
+        -----------------------------------------
+        |                   |                   |
+   +----v----+        +-----v------+       +----v----+
+   |  Salud  |        |  Comercio  |       |Transporte|
+   +----+----+        | Electrónico|       +----+----+
+        |             +-----+------+            |
+        |                   |                   |
+ +------v------+      +-----v------+      +-----v------+
+ | Diagnóstico |      |Recomendación|     | Conducción |
+ | por imagen  |      | de productos|     | autónoma   |
+ +------+------+\     +------+------+\    +------+------+
+        |              |                   |
+     +--v---+       +--v---+            +--v---+
+     |Python|       |Python|            | C++  |
+     +------+       +------+            +------+
+```
 
 ## 6) Riesgos y mitigación
 - Riesgo 1:
